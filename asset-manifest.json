@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Releve-de-note/static/css/main.108dd08f.css",
-    "main.js": "/Releve-de-note/static/js/main.ea35f3ec.js",
+    "main.css": "/Releve-de-note/static/css/main.e3d14959.css",
+    "main.js": "/Releve-de-note/static/js/main.3f0dcec9.js",
     "static/js/453.11abc5e4.chunk.js": "/Releve-de-note/static/js/453.11abc5e4.chunk.js",
+    "static/media/biblotheque.jpg": "/Releve-de-note/static/media/biblotheque.c373a4b59814ef3e9c47.jpg",
     "index.html": "/Releve-de-note/index.html",
-    "main.108dd08f.css.map": "/Releve-de-note/static/css/main.108dd08f.css.map",
-    "main.ea35f3ec.js.map": "/Releve-de-note/static/js/main.ea35f3ec.js.map",
+    "main.e3d14959.css.map": "/Releve-de-note/static/css/main.e3d14959.css.map",
+    "main.3f0dcec9.js.map": "/Releve-de-note/static/js/main.3f0dcec9.js.map",
     "453.11abc5e4.chunk.js.map": "/Releve-de-note/static/js/453.11abc5e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.108dd08f.css",
-    "static/js/main.ea35f3ec.js"
+    "static/css/main.e3d14959.css",
+    "static/js/main.3f0dcec9.js"
   ]
 }
