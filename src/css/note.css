@@ -119,6 +119,12 @@
     gap: 5px;
     padding: 4px 12px;
 }
+
+select {
+    background: transparent;
+    padding: 10px;
+    color:#26678e;
+}
 .search-box input {
     background: transparent;
     padding: 10px;
@@ -324,6 +330,10 @@ tfoot td {
 .slect {
     display: flex;
     gap: 100px;
+    text-align: center;
+}
+
+.relever .tete {
     text-align: center;
 }
 /* form {

@@ -1,0 +1,13 @@
+/* --------------------- footer ----------- */
+
+footer .copyright {
+    text-align: center;
+    color: #0a0e16;
+}
+
+footer .credits {
+    padding-top: 5px;
+    text-align: center;
+    font-size: 13px;
+    color: #012970;
+}
