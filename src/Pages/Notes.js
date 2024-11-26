@@ -24,8 +24,8 @@ function Notes() {
           <FaSchool size={40} color="#2196F3" />
           <br />
           <p style={{ fontSize: "14px" }}>
-            <span style={{ color: "#2196F3" }}>L</span>ycée{" "}
-            <span style={{ color: "#2196F3" }}>A</span>kama
+              <span style={{ color: "#2196F3" }}>U</span>nivairsité{" "}
+              <span style={{ color: "#2196F3" }}>A</span>kamasoa
           </p>
         </div>
         <ul className="menu" style={{marginTop:'20px'}}>
@@ -106,9 +106,9 @@ function Notes() {
               <MdImportExport /> Exporter
             </Link>
               <select id="" >
-                  <option>Prémière trimèstre</option>
-                  <option>Deuxièmes trimèstre</option>
-                  <option>Troisièmes trimèstre</option>
+                  <option>L1</option>
+                  <option>L2</option>
+                  <option>L3</option>
               </select>
             <div className="search-box">
               <i className="fa solid fa-search"></i>
@@ -118,12 +118,12 @@ function Notes() {
           </div>
           <div className="relever">
             <div className="d-flex tete">
-              <div className="logo" style={{ paddingLeft: "180px" }}>
+              <div className="logo" style={{ paddingLeft: "150px" }}>
                 <FaSchool size={50} color="#2196F3" />
                 <br />
                 <p style={{ fontSize: "14px" }}>
-                  <span style={{ color: "#2196F3" }}>L</span>ycée{" "}
-                  <span style={{ color: "#2196F3" }}>A</span>kama
+                <span style={{ color: "#2196F3" }}>U</span>nivairsité{" "}
+                <span style={{ color: "#2196F3" }}>A</span>kamasoa
                 </p>
               </div>
 

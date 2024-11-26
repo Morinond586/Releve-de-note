@@ -13,8 +13,8 @@ function Home() {
             <FaSchool size={100} color="#2196F3" />
             <br />
             <p style={{ fontSize: "14px", color: '#fff' }}>
-              <span style={{ color: "#2196F3" }}>L</span>ycée{" "}
-              <span style={{ color: "#2196F3" }}>A</span>kama
+              <span style={{ color: "#2196F3" }}>U</span>nivairsité{" "}
+              <span style={{ color: "#2196F3" }}>A</span>kamasoa
             </p>
           </div>
         </div>
